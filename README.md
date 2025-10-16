@@ -1,7 +1,6 @@
-# Repositorio de proyectos
-# descripción
-aquí voy a subir todos mis proyectos y códigos
-# Aplicación Mexi-Macros
+# Repository
+# description
+# Desktop Fitness Aplication
 Mexi-Macros – Personal Nutrition & Fitness Tracker
 This application allows users to log in or register to access their personalized account.
 When registering, users create a username and password, and provide details such as name, age, weight, and height.
